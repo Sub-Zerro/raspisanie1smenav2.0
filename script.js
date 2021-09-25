@@ -1163,6 +1163,8 @@ const raspSb = {
 
 }
 
+zagolovokDay.textContent = "Понедельник";
+
 fiveA1.textContent = raspPn.fiveA.firstStr;
 fiveA2.textContent = raspPn.fiveA.secondStr;
 fiveA3.textContent = raspPn.fiveA.thirdStr;
