@@ -1163,6 +1163,99 @@ const raspSb = {
 
 }
 
+fiveA1.textContent = raspPn.fiveA.firstStr;
+fiveA2.textContent = raspPn.fiveA.secondStr;
+fiveA3.textContent = raspPn.fiveA.thirdStr;
+fiveA4.textContent = raspPn.fiveA.fourthStr;
+fiveA5.textContent = raspPn.fiveA.fifthStr;
+fiveA6.textContent = raspPn.fiveA.sixthStr;
+fiveA7.textContent = raspPn.fiveA.seventhStr;
+fiveA8.textContent = raspPn.fiveA.eightStr;
+
+fiveB1.textContent = raspPn.fiveB.firstStr;
+fiveB2.textContent = raspPn.fiveB.secondStr;
+fiveB3.textContent = raspPn.fiveB.thirdStr;
+fiveB4.textContent = raspPn.fiveB.fourthStr;
+fiveB5.textContent = raspPn.fiveB.fifthStr;
+fiveB6.textContent = raspPn.fiveB.sixthStr;
+fiveB7.textContent = raspPn.fiveB.seventhStr;
+fiveB8.textContent = raspPn.fiveB.eightStr;
+
+fiveV1.textContent = raspPn.fiveV.firstStr;
+fiveV2.textContent = raspPn.fiveV.secondStr;
+fiveV3.textContent = raspPn.fiveV.thirdStr;
+fiveV4.textContent = raspPn.fiveV.fourthStr;
+fiveV5.textContent = raspPn.fiveV.fifthStr;
+fiveV6.textContent = raspPn.fiveV.sixthStr;
+fiveV7.textContent = raspPn.fiveV.seventhStr;
+fiveV8.textContent = raspPn.fiveV.eightStr;
+
+
+nineA1.textContent = raspPn.nineA.firstStr;
+nineA2.textContent = raspPn.nineA.secondStr;
+nineA3.textContent = raspPn.nineA.thirdStr;
+nineA4.textContent = raspSr.nineA.fourthStr;
+nineA5.textContent = raspPn.nineA.fifthStr;
+nineA6.textContent = raspPn.nineA.sixthStr;
+nineA7.textContent = raspPn.nineA.seventhStr;
+nineA8.textContent = raspPn.nineA.eightStr;
+
+nineB1.textContent = raspPn.nineB.firstStr;
+nineB2.textContent = raspPn.nineB.secondStr;
+nineB3.textContent = raspPn.nineB.thirdStr;
+nineB4.textContent = raspPn.nineB.fourthStr;
+nineB5.textContent = raspPn.nineB.fifthStr;
+nineB6.textContent = raspPn.nineB.sixthStr;
+nineB7.textContent = raspPn.nineB.seventhStr;
+nineB8.textContent = raspPn.nineB.eightStr;
+
+nineV1.textContent = raspPn.nineV.firstStr;
+nineV2.textContent = raspPn.nineV.secondStr;
+nineV3.textContent = raspPn.nineV.thirdStr;
+nineV4.textContent = raspPn.nineV.fourthStr;
+nineV5.textContent = raspPn.nineV.fifthStr;
+nineV6.textContent = raspPn.nineV.sixthStr;
+nineV7.textContent = raspPn.nineV.seventhStr;
+nineV8.textContent = raspPn.nineV.eightStr;
+
+
+tenA1.textContent = raspPn.tenA.fifthStr;
+tenA2.textContent = raspPn.tenA.secondStr;
+tenA3.textContent = raspPn.tenA.thirdStr;
+tenA4.textContent = raspPn.tenA.fourthStr;
+tenA5.textContent = raspPn.tenA.fifthStr;
+tenA6.textContent = raspPn.tenA.sixthStr;
+tenA7.textContent = raspPn.tenA.seventhStr;
+tenA8.textContent = raspPn.tenA.eightStr;
+
+tenB1.textContent = raspPn.tenB.firstStr;
+tenB2.textContent = raspPn.tenB.secondStr;
+tenB3.textContent = raspPn.tenB.thirdStr;
+tenB4.textContent = raspPn.tenB.fourthStr;
+tenB5.textContent = raspPn.tenB.fifthStr;
+tenB6.textContent = raspPn.tenB.sixthStr;
+tenB7.textContent = raspPn.tenB.seventhStr;
+tenB8.textContent = raspPn.tenB.eightStr;
+
+
+elevenA1.textContent = raspPn.elevenA.firstStr;
+elevenA2.textContent = raspPn.elevenA.secondStr;
+elevenA3.textContent = raspPn.elevenA.thirdStr;
+elevenA4.textContent = raspPn.elevenA.fourthStr;
+elevenA5.textContent = raspPn.elevenA.fifthStr;
+elevenA6.textContent = raspPn.elevenA.sixthStr;
+elevenA7.textContent = raspPn.elevenA.seventhStr;
+elevenA8.textContent = raspPn.elevenA.eightStr;
+
+elevenB1.textContent = raspPn.elevenB.fifthStr;
+elevenB2.textContent = raspPn.elevenB.secondStr;
+elevenB3.textContent = raspPn.elevenB.thirdStr;
+elevenB4.textContent = raspPn.elevenB.fourthStr;
+elevenB5.textContent = raspPn.elevenB.fifthStr;
+elevenB6.textContent = raspPn.elevenB.sixthStr;
+elevenB7.textContent = raspPn.elevenB.seventhStr;
+elevenB8.textContent = raspPn.elevenB.eightStr;
+
 
 // События с слушателями
 
@@ -1748,6 +1841,9 @@ Daysb.addEventListener('click', () => {
     elevenB7.textContent = raspSb.elevenB.seventhStr;
     elevenB8.textContent = raspSb.elevenB.eightStr;
 });
+
+
+
 
 
 
